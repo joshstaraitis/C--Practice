@@ -1,0 +1,13 @@
+D:\C# Projects\UpdatedTechQuestionsPractice\bin\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.exe
+D:\C# Projects\UpdatedTechQuestionsPractice\bin\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.deps.json
+D:\C# Projects\UpdatedTechQuestionsPractice\bin\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.runtimeconfig.json
+D:\C# Projects\UpdatedTechQuestionsPractice\bin\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.runtimeconfig.dev.json
+D:\C# Projects\UpdatedTechQuestionsPractice\bin\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.dll
+D:\C# Projects\UpdatedTechQuestionsPractice\bin\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.pdb
+D:\C# Projects\UpdatedTechQuestionsPractice\obj\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.csprojAssemblyReference.cache
+D:\C# Projects\UpdatedTechQuestionsPractice\obj\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.AssemblyInfoInputs.cache
+D:\C# Projects\UpdatedTechQuestionsPractice\obj\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.AssemblyInfo.cs
+D:\C# Projects\UpdatedTechQuestionsPractice\obj\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.csproj.CoreCompileInputs.cache
+D:\C# Projects\UpdatedTechQuestionsPractice\obj\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.dll
+D:\C# Projects\UpdatedTechQuestionsPractice\obj\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.pdb
+D:\C# Projects\UpdatedTechQuestionsPractice\obj\Debug\netcoreapp3.1\UpdatedTechQuestionsPractice.genruntimeconfig.cache
